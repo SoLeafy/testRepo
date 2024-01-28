@@ -13,6 +13,8 @@
 	<h2>jstl / el태그 2</h2>
 	<a href="https://www.naver.com">네이버</a>
 	<br>
+	<a href="https://www.daum.net">다음</a>
+	<br>
 	<c:forEach begin="1" end="10" var="i">
 	${i }<br>
 	</c:forEach>
